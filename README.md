@@ -16,6 +16,7 @@ Driven by a desire to make a significant impact in data analytics while pursuing
 
 ## Projects
 You'll find a variety of projects in this repository, including:
+- Portfolio
 - Text Detection in Images
 - Inventory Demand Forecast
 - Incident Cause Detection: A robust model in SQL and Python to extract incident information and enable proactive incident management.
@@ -23,7 +24,6 @@ You'll find a variety of projects in this repository, including:
 - MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool.
 - Incident-Data-Extraction-SQLite-Database-Creation.
 - Data-Management-In-R--Workshop
-- Portfolio 
 
 ## Collaboration
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
