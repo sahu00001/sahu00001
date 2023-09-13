@@ -29,7 +29,7 @@ You'll find a variety of projects in this repository, including:
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
 
 ## LinkedIn
-You can also find more about me and my experiences on my LinkedIn profile: [LinkedIn](www.linkedin.com/in/sujata-sahu13)
+You can also find more about me and my experiences on my LinkedIn profile: www.linkedin.com/in/sujata-sahu13
 
-Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring! Happy exploring! 🚀
+Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring! Happy exploring!
 
