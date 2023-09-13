@@ -14,11 +14,16 @@ Outside of data science, I have a passion for gardening and painting, which prov
 Driven by a desire to make a significant impact in data analytics while pursuing my artistic and horticultural passions, I am committed to contributing to real-world challenges in the field.
 ## Projects
 You'll find a variety of projects in this repository, including:
-- Cuisine Predictor: Enhancing menu planning through clustering modeling in Python.
-- Sensitive Information Reactor: Process automation for sensitive data redaction using Natural Language Processing (NLP) in Python.
+- Text Detection in Images
+- Inventory Demand Forecast
 - Incident Cause Detection: A robust model in SQL and Python to extract incident information and enable proactive incident management.
-- Hospital Readmitted Data: Machine learning classification models in R for predicting patient readmission rates.
-- US Superstore: Machine learning regression models in R for predicting product profits and providing optimization recommendations.
+- ConfidentialInfoGuard-Automated-Text-Redaction-Tool
+- MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool.
+- Incident-Data-Extraction-SQLite-Database-Creation.
+- Data-Management-In-R--Workshop
+- Portfolio
+
+  
 
 ## Collaboration
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
