@@ -19,7 +19,7 @@ You'll find a variety of projects in this repository, including:
 - Portfolio
 - Text Detection in Images
 - Inventory Demand Forecast
-- Incident Cause Detection: A robust model in SQL and Python to extract incident information and enable proactive incident management.
+- Incident Cause Detection
 - ConfidentialInfoGuard-Automated-Text-Redaction-Tool
 - MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool.
 - Incident-Data-Extraction-SQLite-Database-Creation.
