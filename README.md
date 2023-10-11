@@ -1,6 +1,6 @@
 # Sujata Sahu - Data Architect | Automation Analyst
 
-Hello there! I'm Sujata Sahu, a highly motivated data enthusiast and aspiring data scientist. Currently, I'm pursuing my Master's in Data Science and Analytics at the University of Oklahoma, with an expected graduation date in May 2024.
+Hello there! I'm Sujata Sahu, a highly motivated data enthusiast. Currently, I'm pursuing my Master's in Data Science and Analytics at the University of Oklahoma, with an expected graduation date in May 2024.
 
 ## About Me
 I am a highly accomplished graduate research assistant at the University of Oklahoma, pursuing a Master's degree in Data Science and Analytics. With over six years of experience as a data analyst, I excel in using cutting-edge tools and technologies to solve complex business challenges. My skills include data wrangling, data mining, advanced statistical analysis, and proficiency in programming languages like Python, R, and SQL. I'm also skilled in data visualization using tools such as Tableau and Power BI.
