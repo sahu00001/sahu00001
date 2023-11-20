@@ -24,6 +24,7 @@ You'll find a variety of projects in this repository, including:
 - MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool.
 - Incident-Data-Extraction-SQLite-Database-Creation.
 - Data-Management-In-R--Workshop
+- Job Shop Accounting System
 
 ## Collaboration
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
