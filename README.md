@@ -3,10 +3,11 @@
 Hello there! I'm Sujata Sahu, a highly motivated data enthusiast. Currently, I'm pursuing my Master's in Data Science and Analytics at the University of Oklahoma, with an expected graduation date in May 2024.
 
 ## About Me
-As a highly accomplished graduate research assistant at the University of Oklahoma, actively pursuing a Master's degree in Data Science and Analytics, I bring over six years of extensive experience as a versatile data analyst. My proficiency spans a spectrum of cutting-edge tools and technologies, allowing me to expertly tackle intricate business challenges. From adept data wrangling and mining to conducting advanced statistical analyses, I am well-versed in programming languages like Python, R, and SQL.
+As a dedicated graduate research assistant pursuing a Master's in Data Science and Analytics at the University of Oklahoma, I bring over six years of experience as a savvy data analyst. Proficient in Python, R, and SQL, I tackle complex business challenges with finesse, unraveling data intricacies for meaningful insights.
 
-In the vibrant world of data, I thrive on the dynamic interplay of data wrangling, mining, and modeling. I'm akin to a data virtuoso, adept at unraveling its intricacies and transforming raw information into actionable insights. Whether engaged in the meticulous dance of data wrangling, the immersive exploration of mining, or the artful crafting of models, I find joy in every facet of the data journey. It's not just a passion; it's an integral part of my professional identity—a commitment to unraveling the stories hidden within the data and translating them into meaningful solutions.
+In the dynamic world of data, I'm not just a data enthusiast; I'm your go-to person for transforming raw information into actionable solutions. Data isn't just a job—it's my professional identity, and I'm passionate about unveiling the stories hidden within.
 
+Beyond my tech skills, I'm actively immersed in data communities, staying ahead of industry trends. But let's not forget the flair! When I'm not decoding data, you'll find me cultivating balance in gardens and painting strokes of creativity. I bring this unique blend of tech and creativity to every data analysis, ensuring it's not just informative but visually compelling too. Let's connect and decode data together! 
 
 
 ## Projects
