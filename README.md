@@ -3,15 +3,10 @@
 Hello there! I'm Sujata Sahu, a highly motivated data enthusiast. Currently, I'm pursuing my Master's in Data Science and Analytics at the University of Oklahoma, with an expected graduation date in May 2024.
 
 ## About Me
-I am a highly accomplished graduate research assistant at the University of Oklahoma, pursuing a Master's degree in Data Science and Analytics. With over six years of experience as a data analyst, I excel in using cutting-edge tools and technologies to solve complex business challenges. My skills include data wrangling, data mining, advanced statistical analysis, and proficiency in programming languages like Python, R, and SQL. I'm also skilled in data visualization using tools such as Tableau and Power BI.
+As a highly accomplished graduate research assistant at the University of Oklahoma, actively pursuing a Master's degree in Data Science and Analytics, I bring over six years of extensive experience as a versatile data analyst. My proficiency spans a spectrum of cutting-edge tools and technologies, allowing me to expertly tackle intricate business challenges. From adept data wrangling and mining to conducting advanced statistical analyses, I am well-versed in programming languages like Python, R, and SQL.
 
-My true passion lies in machine learning and artificial intelligence, where I have expertise in designing and implementing predictive models, including convolutional recurrent neural networks (CRNN) for tasks like text detection in images and license plate recognition. I deploy these models on platforms like Google Cloud and Kubeflow to transform innovative ideas into practical solutions.
+In the vibrant world of data, I thrive on the dynamic interplay of data wrangling, mining, and modeling. I'm akin to a data virtuoso, adept at unraveling its intricacies and transforming raw information into actionable insights. Whether engaged in the meticulous dance of data wrangling, the immersive exploration of mining, or the artful crafting of models, I find joy in every facet of the data journey. It's not just a passion; it's an integral part of my professional identity—a commitment to unraveling the stories hidden within the data and translating them into meaningful solutions.
 
-Beyond my technical abilities, I actively participate in workshops and engage with dynamic data science communities to stay updated with industry trends. I have strong communication skills, enabling me to convey complex technical concepts with clarity.
-
-Outside of data science, I have a passion for gardening and painting, which provide me with balance and unique perspectives that I often apply to my data analysis work.
-
-Driven by a desire to make a significant impact in data analytics while pursuing my artistic and horticultural passions, I am committed to contributing to real-world challenges in the field.
 
 
 ## Projects
