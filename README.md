@@ -7,8 +7,7 @@ As a dedicated graduate research assistant pursuing a Master's in Data Science a
 
 In the dynamic world of data, I'm not just a data enthusiast; I'm your go-to person for transforming raw information into actionable solutions. Data isn't just a job—it's my professional identity, and I'm passionate about unveiling the stories hidden within.
 
-Beyond my tech skills, I'm actively immersed in data communities, staying ahead of industry trends. But let's not forget the flair! When I'm not decoding data, you'll find me cultivating balance in gardens and painting strokes of creativity. I bring this unique blend of tech and creativity to every data analysis, ensuring it's not just informative but visually compelling too. Let's connect and decode data together! 
-
+Beyond my tech skills, I'm actively immersed in data communities, staying ahead of industry trends. But let's not forget the flair! When I'm not decoding data, you'll find me cultivating balance in gardens and painting strokes of creativity. I bring this unique blend of tech and creativity to every aspect of the data journey, ensuring it's not just informative but visually compelling too. Let's connect and decode data together!  
 
 ## Projects
 You'll find a variety of projects in this repository, including:
