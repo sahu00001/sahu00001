@@ -1,13 +1,9 @@
 # Sujata Sahu - Data Architect | Automation Analyst
+I am an impassioned data enthusiast currently immersed in the pursuit of a Master's in Data Science and Analytics with a thesis track. Armed with a robust foundation in data wrangling, mining, and statistical analysis, I excel in distilling valuable insights from a myriad of datasets. Proficient in Python, R, and SQL, I deftly handle voluminous datasets and leverage data visualization tools such as Tableau and Power BI to eloquently communicate complex information.
 
-Hello there! I'm Sujata Sahu, a highly motivated data enthusiast. Currently, I'm pursuing my Master's in Data Science and Analytics at the University of Oklahoma, with an expected graduation date in May 2024.
+My ardor for data propels me to explore cutting-edge techniques, including NLP, deep learning, and machine learning, consistently pushing the boundaries of model development. Possessing a go-getter attitude and an insatiable thirst for knowledge, I am a rapid learner who perpetually seeks opportunities for personal growth. Actively participating in workshops and data science communities keeps me at the forefront of the latest industry advancements.
 
-## About Me
-As a distinguished graduate research assistant pursuing a Master's in Data Science and Analytics at the University of Oklahoma, I bring over six years of experience as a savvy data analyst. Proficient in Python, R, and SQL, I tackle complex business challenges with finesse, unraveling data intricacies for meaningful insights.
-
-In the dynamic world of data, I'm not just a data enthusiast; I'm your go-to person for transforming raw information into actionable solutions. Data isn't just a job—it's my professional identity, and I'm passionate about unveiling the stories hidden within.
-
-Beyond my tech skills, I'm actively immersed in data communities, staying ahead of industry trends. But let's not forget the flair! When I'm not decoding data, you'll find me cultivating balance in gardens and painting strokes of creativity. I bring this unique blend of tech and creativity to every aspect of the data journey, ensuring it's not just informative but visually compelling too. Let's connect and decode data together!
+Beyond technical prowess, my communication skills stand out—I articulate intricate concepts in a clear and compelling manner, rendering me an invaluable asset in any data-driven organization. Whether tackling business challenges or diving into the intricacies of data science, I am poised to make a meaningful impact in the dynamic realm of data. As I approach the culmination of my Master's, I eagerly anticipate applying my skills to real-world challenges, making me an ideal fit for any organization seeking to forge new frontiers and address complex business challenges. My exceptional analytical abilities, technical acumen, and unwavering commitment to continuous learning position me as a catalyst for innovation and growth.
 
 ## Projects
 You'll find a variety of projects in this repository, including:
