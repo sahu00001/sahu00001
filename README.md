@@ -8,16 +8,17 @@ I hold Salesforce Sales Cloud Consultant and Salesforce Administrator certificat
 Beyond technical contributions, I have led a team of 15 members, training and mentoring associates in cutting-edge technologies while ensuring seamless project delivery.
 
 Feel free to connect with me at sujatasahu0120@gmail.com for opportunities or to collaborate on innovative, data-driven solutions.
+
 KEY SKILLS
-Big Data: Databricks, Snowflake
-Programming Languages: Python, R, SQL
-Data Visualization: Tableau, Power BI, Excel, PowerPoint, Matplotlib, ggplot2
-Cloud Platforms: GCP, Azure, AWS, Salesforce, SharePoint, Supercomputing Environments
-Version Control & Collaboration: Git, Jupyter Notebooks
-Design and GIS Tools: AutoCAD, ArcGIS Desktop, STAAD Pro
-Machine Learning: Regression, Classification, Clustering, Deep Learning, NLP, Neural Network, Predictive Modeling, LLM
-Optimization Tools: Optuna(hyperparameter Optimization), Grid Search, Random Search
-Database Management: SQL Server, Azure SQL, ETL Pipelines, Data Pipelines Development, Amazon Redshift
+- Big Data: Databricks, Snowflake
+- Programming Languages: Python, R, SQL
+- Data Visualization: Tableau, Power BI, Excel, PowerPoint, Matplotlib, ggplot2
+- Cloud Platforms: GCP, Azure, AWS, Salesforce, SharePoint, Supercomputing Environments
+- Version Control & Collaboration: Git, Jupyter Notebooks
+- Design and GIS Tools: AutoCAD, ArcGIS Desktop, STAAD Pro
+- Machine Learning: Regression, Classification, Clustering, Deep Learning, NLP, Neural Network, Predictive Modeling, LLM
+- Optimization Tools: Optuna(hyperparameter Optimization), Grid Search, Random Search
+- Database Management: SQL Server, Azure SQL, ETL Pipelines, Data Pipelines Development, Amazon Redshift
 
 ## Projects
 Find my projects below:
