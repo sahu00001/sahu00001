@@ -20,16 +20,29 @@ Optimization Tools: Optuna(hyperparameter Optimization), Grid Search, Random Sea
 Database Management: SQL Server, Azure SQL, ETL Pipelines, Data Pipelines Development, Amazon Redshift
 
 ## Projects
-You'll find a variety of projects in this repository, including:
-- Portfolio
-- Text Detection in Images
-- Inventory Demand Forecast
-- Incident Cause Detection
+Find my projects below:
+
+### MachineLearning and Neural Network
+- Non Linear Dimentionality Reduction(Thesis)
+- Profit Prediction for U.S. Superstore Products
+  
+### Text Analytics(Python)
+- Incident-Data-Extraction-SQLite-Database-Creation
 - ConfidentialInfoGuard-Automated-Text-Redaction-Tool
-- MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool.
-- Incident-Data-Extraction-SQLite-Database-Creation.
-- Data-Management-In-R--Workshop
-- Job Shop Accounting System
+- MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool
+- Resume Parser
+
+### Statistical Modeling and Data Analytics
+- Simple Linear Regression and Bootstrap
+
+### Database Design
+- Jobshop Accounting System
+
+### Academic course work
+- Statistics
+- Intelligent Data Analytics
+- Database Management System
+- Computing Structures
 
 ## Collaboration
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
