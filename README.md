@@ -9,7 +9,7 @@ Beyond technical contributions, I have led a team of 15 members, training and me
 
 Feel free to connect with me at sujatasahu0120@gmail.com for opportunities or to collaborate on innovative, data-driven solutions.
 
-KEY SKILLS
+## KEY SKILLS
 - Big Data: Databricks, Snowflake
 - Programming Languages: Python, R, SQL
 - Data Visualization: Tableau, Power BI, Excel, PowerPoint, Matplotlib, ggplot2
@@ -33,7 +33,7 @@ Find my projects below:
 - MenuProfitsAI-Cuisine-Predictor-Menu-Planning-Tool
 - Resume Parser
 
-### Statistical Modeling and Data Analytics
+### Statistical Modeling and Data Analytics(R)
 - Simple Linear Regression and Bootstrap
 
 ### Database Design
@@ -41,9 +41,9 @@ Find my projects below:
 
 ### Academic course work
 - Statistics
-- Intelligent Data Analytics
-- Database Management System
-- Computing Structures
+- Intelligent Data Analytics(R)
+- Database Management System(Azure SQL)
+- Computing Structures(C++)
 
 ## Collaboration
 I believe in the collaborative nature of the data science community, and I'm open to feedback and suggestions on my projects. If you find any of my work interesting or have ideas for collaboration, feel free to reach out to me. Let's connect and together explore the fascinating world of data science!
