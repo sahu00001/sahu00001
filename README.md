@@ -28,8 +28,8 @@ My multidisciplinary expertise bridges the gap between data science and engineer
 - Optimization Tools: Optuna(hyperparameter Optimization), Grid Search, Random Search
 - Database Management: SQL Server, Azure SQL, ETL Pipelines, Data Pipelines Development, Amazon Redshift
 
-## Project
-Find my projects below:
+## Project and Coursework
+Find some of my projects below:
 
 #### Machine Learning and Neural Network
 - Non Linear Dimentionality Reduction(Thesis)
