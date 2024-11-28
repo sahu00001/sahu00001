@@ -1,9 +1,23 @@
-# Sujata Sahu - Data Architect | Automation Analyst
-I am an impassioned data enthusiast currently immersed in the pursuit of a Master's in Data Science and Analytics with a thesis track. Armed with a robust foundation in data wrangling, mining, and statistical analysis, I excel in distilling valuable insights from a myriad of datasets. Proficient in Python, R, and SQL, I deftly handle voluminous datasets and leverage data visualization tools such as Tableau and Power BI to eloquently communicate complex information.
+# Sujata Sahu - Data Expert
+I am a recent graduate with a Master's degree in Data Science, completed through a thesis track, and bring 8 years of prior professional experience in data analysis, modeling, and pipeline development. My thesis focused on designing a neural network using TensorFlow and Scikit-learn to reduce the dimensionality of a large dataset from 2,142,510 features to 110 while capturing non-linearity. These 110 features were successfully used to predict water level surges at 12,603 locations, providing critical insights to the Natural Hazards Center and enabling more effective evacuation strategies. Additionally, I developed a Large Language Model (LLM) application to extract and analyze information from text files, significantly saving time and enhancing research efficiency.
 
-My ardor for data propels me to explore cutting-edge techniques, including NLP, deep learning, and machine learning, consistently pushing the boundaries of model development. Possessing a go-getter attitude and an insatiable thirst for knowledge, I am a rapid learner who perpetually seeks opportunities for personal growth. Actively participating in workshops and data science communities keeps me at the forefront of the latest industry advancements.
+In my past experience, I have created Tableau dashboards tailored to client requirements, defined KPIs, and automated data pipelines to optimize workflows. I also utilized advanced analytics to provide actionable insights and support informed decision-making. As a Data Analyst Intern at the Federal Reserve Bank of Philadelphia, I successfully migrated datasets from AWS S3 to Databricks using PySpark and SQL, streamlining workflows and reducing dependency on developers. At Quadrant Resources, I developed a resume parser that reduced recruitment time by 50%.
 
-Beyond technical prowess, my communication skills stand out—I articulate intricate concepts in a clear and compelling manner, rendering me an invaluable asset in any data-driven organization. Whether tackling business challenges or diving into the intricacies of data science, I am poised to make a meaningful impact in the dynamic realm of data. As I approach the culmination of my Master's, I eagerly anticipate applying my skills to real-world challenges, making me an ideal fit for any organization seeking to forge new frontiers and address complex business challenges. My exceptional analytical abilities, technical acumen, and unwavering commitment to continuous learning position me as a catalyst for innovation and growth.
+I hold Salesforce Sales Cloud Consultant and Salesforce Administrator certifications, showcasing my ability to design and implement scalable CRM solutions, optimize workflows, and enhance user experience within the Salesforce ecosystem.
+
+Beyond technical contributions, I have led a team of 15 members, training and mentoring associates in cutting-edge technologies while ensuring seamless project delivery.
+
+Feel free to connect with me at sujatasahu0120@gmail.com for opportunities or to collaborate on innovative, data-driven solutions.
+KEY SKILLS
+Big Data: Databricks, Snowflake
+Programming Languages: Python, R, SQL
+Data Visualization: Tableau, Power BI, Excel, PowerPoint, Matplotlib, ggplot2
+Cloud Platforms: GCP, Azure, AWS, Salesforce, SharePoint, Supercomputing Environments
+Version Control & Collaboration: Git, Jupyter Notebooks
+Design and GIS Tools: AutoCAD, ArcGIS Desktop, STAAD Pro
+Machine Learning: Regression, Classification, Clustering, Deep Learning, NLP, Neural Network, Predictive Modeling, LLM
+Optimization Tools: Optuna(hyperparameter Optimization), Grid Search, Random Search
+Database Management: SQL Server, Azure SQL, ETL Pipelines, Data Pipelines Development, Amazon Redshift
 
 ## Projects
 You'll find a variety of projects in this repository, including:
