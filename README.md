@@ -1,13 +1,21 @@
 # SUJATA SAHU - Data Expert
-I am a recent graduate with a Master's degree in Data Science, completed through a thesis track, and bring 8 years of prior professional experience in data analysis, modeling, and pipeline development. My thesis focused on designing a neural network using TensorFlow and Scikit-learn to reduce the dimensionality of a large dataset from 2,142,510 features to 110 while capturing non-linearity. These 110 features were successfully used to predict water level surges at 12,603 locations, providing critical insights to the Natural Hazards Center and enabling more effective evacuation strategies. Additionally, I developed a Large Language Model (LLM) application to extract and analyze information from text files, significantly saving time and enhancing research efficiency.
+Data expert with 8 years of professional experience, a Master’s degree in Data Science and Analytics, and a Bachelor’s degree in Civil Engineering. My career spans a unique blend of expertise in data analysis, modeling, pipeline development, estimation engineering, and design engineering, combining technical acumen with practical engineering experience.
 
-In my past experience, I have created Tableau dashboards tailored to client requirements, defined KPIs, and automated data pipelines to optimize workflows. I also utilized advanced analytics to provide actionable insights and support informed decision-making. As a Data Analyst Intern at the Federal Reserve Bank of Philadelphia, I successfully migrated datasets from AWS S3 to Databricks using PySpark and SQL, streamlining workflows and reducing dependency on developers. At Quadrant Resources, I developed a resume parser that reduced recruitment time by 50%.
+Data Science Expertise:
+As part of my master’s thesis, I developed a neural network using TensorFlow and Scikit-learn to reduce a dataset from 2,142,510 features to 110 while retaining non-linear patterns. These features were then applied to predict water level surges across 12,603 locations, supporting the Natural Hazards Center in creating more effective evacuation strategies. Additionally, I built a Large Language Model (LLM) application to extract and analyze information from text files, significantly improving research efficiency.
 
-I hold Salesforce Sales Cloud Consultant and Salesforce Administrator certifications, showcasing my ability to design and implement scalable CRM solutions, optimize workflows, and enhance user experience within the Salesforce ecosystem.
+Professional Highlights:
+Federal Reserve Bank of Philadelphia: Migrated financial datasets from AWS S3 to Databricks using PySpark and SQL, ensuring data integrity and streamlining workflows. I also supported the development of risk models to assess borrower creditworthiness.
+Quadrant Resources: Designed a resume parser that reduced recruitment time by 50%, leveraging advanced Natural Language Processing (NLP) techniques.
+Developed Tableau dashboards, defined KPIs, and automated pipelines to provide actionable insights, optimize workflows, and support informed decision-making.
+Engineering Expertise:
+Estimation Engineer: Gained extensive experience in cost estimation, resource optimization, and feasibility analysis for complex engineering projects.
+Design Engineer: Created precise 2D and 3D architectural designs using AutoCAD and STAAD Pro, ensuring compliance with both aesthetic and structural standards.
+Certifications and Leadership:
+I hold Salesforce Sales Cloud Consultant and Salesforce Administrator certifications, demonstrating my ability to design and implement scalable CRM solutions. I have led and mentored teams of up to 15 members, fostering innovation, ensuring project delivery, and training associates in cutting-edge technologies.
 
-Beyond technical contributions, I have led a team of 15 members, training and mentoring associates in cutting-edge technologies while ensuring seamless project delivery.
+My multidisciplinary expertise bridges the gap between data science and engineering, enabling me to deliver impactful solutions and drive strategic decision-making across industries.
 
-Feel free to connect with me at sujatasahu0120@gmail.com for opportunities or to collaborate on innovative, data-driven solutions.
 
 ## Key Skills
 - Big Data: Databricks, Snowflake
@@ -52,4 +60,6 @@ I believe in the collaborative nature of the data science community, and I'm ope
 You can also find more about me and my experiences on my LinkedIn profile: www.linkedin.com/in/sujata-sahu13
 
 Thank you for visiting my GitHub repository, and I hope you find my projects insightful and inspiring! Happy exploring!
+Feel free to connect with me at sujatasahu0120@gmail.com for opportunities or to collaborate on innovative, data-driven solutions.
+
 
