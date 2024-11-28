@@ -5,13 +5,13 @@ Data expert with 8 years of professional experience, a Master’s degree in Data
 As part of my master’s thesis, I developed a neural network using TensorFlow and Scikit-learn to reduce a dataset from 2,142,510 features to 110 while retaining non-linear patterns. These features were then applied to predict water level surges across 12,603 locations, supporting the Natural Hazards Center in creating more effective evacuation strategies. Additionally, I built a Large Language Model (LLM) application to extract and analyze information from text files, significantly improving research efficiency.
 
 #### Professional Highlights:
-Federal Reserve Bank of Philadelphia: Migrated financial datasets from AWS S3 to Databricks using PySpark and SQL, ensuring data integrity and streamlining workflows. I also supported the development of risk models to assess borrower creditworthiness.
-Quadrant Resources: Designed a resume parser that reduced recruitment time by 50%, leveraging advanced Natural Language Processing (NLP) techniques.
+Migrated financial datasets from AWS S3 to Databricks using PySpark and SQL, ensuring data integrity and streamlining workflows. I also supported the development of risk models to assess borrower creditworthiness.Designed a resume parser that reduced recruitment time by 50%, leveraging advanced Natural Language Processing (NLP) techniques.
 Developed Tableau dashboards, defined KPIs, and automated pipelines to provide actionable insights, optimize workflows, and support informed decision-making.
-Engineering Expertise:
-Estimation Engineer: Gained extensive experience in cost estimation, resource optimization, and feasibility analysis for complex engineering projects.
-Design Engineer: Created precise 2D and 3D architectural designs using AutoCAD and STAAD Pro, ensuring compliance with both aesthetic and structural standards.
-Certifications and Leadership:
+
+#### Engineering Expertise:
+Gained extensive experience in cost estimation, resource optimization, and feasibility analysis for complex engineering projects. Created precise 2D and 3D architectural designs using AutoCAD and STAAD Pro, ensuring compliance with both aesthetic and structural standards.
+
+#### Certifications and Leadership:
 I hold Salesforce Sales Cloud Consultant and Salesforce Administrator certifications, demonstrating my ability to design and implement scalable CRM solutions. I have led and mentored teams of up to 15 members, fostering innovation, ensuring project delivery, and training associates in cutting-edge technologies.
 
 My multidisciplinary expertise bridges the gap between data science and engineering, enabling me to deliver impactful solutions and drive strategic decision-making across industries.
