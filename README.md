@@ -1,10 +1,10 @@
-# SUJATA SAHU - Data Expert
+# SUJATA SAHU 
 Data expert with 8 years of professional experience, a Master’s degree in Data Science and Analytics, and a Bachelor’s degree in Civil Engineering. My career spans a unique blend of expertise in data analysis, modeling, pipeline development, estimation engineering, and design engineering, combining technical acumen with practical engineering experience.
 
-Data Science Expertise:
+### Data Science Expertise:
 As part of my master’s thesis, I developed a neural network using TensorFlow and Scikit-learn to reduce a dataset from 2,142,510 features to 110 while retaining non-linear patterns. These features were then applied to predict water level surges across 12,603 locations, supporting the Natural Hazards Center in creating more effective evacuation strategies. Additionally, I built a Large Language Model (LLM) application to extract and analyze information from text files, significantly improving research efficiency.
 
-Professional Highlights:
+### Professional Highlights:
 Federal Reserve Bank of Philadelphia: Migrated financial datasets from AWS S3 to Databricks using PySpark and SQL, ensuring data integrity and streamlining workflows. I also supported the development of risk models to assess borrower creditworthiness.
 Quadrant Resources: Designed a resume parser that reduced recruitment time by 50%, leveraging advanced Natural Language Processing (NLP) techniques.
 Developed Tableau dashboards, defined KPIs, and automated pipelines to provide actionable insights, optimize workflows, and support informed decision-making.
